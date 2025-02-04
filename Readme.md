@@ -1,5 +1,9 @@
 # Humble Superhero API
 
+<p>
+  <img height="200" src="https://preview.redd.it/y6apz1rjg1zc1.png?auto=webp&s=a49d0f9cdae731b5d179912a93cf65b2a1e9eb65" />
+</p>
+
 This project demonstrates a simple API where users can add superheroes with their names, superpowers, and humility scores. The superheroes are then displayed in a list, sorted by their humility score in descending order. The backend is built with Node.js, and the frontend is developed using React with Bootstrap for styling.
 
 ## To start the project
